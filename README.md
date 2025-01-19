@@ -24,4 +24,6 @@ Po tom, co se mu nepodaří sám útočit dostatečně na pivní státy a se spo
 
 ### 2000
 
-![mapa 2000](2000.jpg)
+![mapa 2000](./2000.svg)
+
+<!-- https://www.mapchart.net/ -->
