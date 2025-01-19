@@ -14,8 +14,6 @@ Po tom, co se mu nepodaří sám útočit dostatečně na pivní státy a se spo
 
 ## Mapy
 
-### legenda
-
 ### rok 2000
 
 ![mapa 2000](./2000.png)
