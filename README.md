@@ -16,14 +16,8 @@ Po tom, co se mu nepodaří sám útočit dostatečně na pivní státy a se spo
 
 ### legenda
 
-| barva     | druh alkoholu |
-|-----------|---------------|
-| oranžová  | pivo          |
-| fialová   | víno          |
-| modrá     | vodka         |
+### rok 2000
 
-### 2000
-
-![mapa 2000](./2000.svg)
+![mapa 2000](./2000.png)
 
 <!-- https://www.mapchart.net/ -->
